@@ -68,7 +68,7 @@
     "purgecss-whitelister": "^2.4",
     "serve": "^14.1.2",
     "shx": "^0.3.4",
-    "stylelint": "^14.16",
+    "stylelint": "^16.11",
     "stylelint-config-standard-scss": "^6.1"
   },
   "otherDependencies": {
